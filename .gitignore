@@ -10,6 +10,8 @@
 *.h5py
 *.zip
 
+src/_extras/*
+
 # jupyter
 MANIFEST
 build
