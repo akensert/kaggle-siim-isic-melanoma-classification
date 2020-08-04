@@ -18,7 +18,7 @@ pip install -r requirements.txt # installs python packages (including TensorFlow
 
 ### Datasets
 
-Download datasets [here for 256x256](https://www.kaggle.com/cdeotte/melanoma-256x256), [here for 384x384](https://www.kaggle.com/cdeotte/melanoma-384x384), [here for 512x512](https://www.kaggle.com/cdeotte/melanoma-512x512), [here for 768x768](https://www.kaggle.com/cdeotte/melanoma-768x768), and [here for 1024x1024](https://www.kaggle.com/cdeotte/melanoma-1024x1024). These datasets (folders) should be put inside `input/`.
+Download datasets [here for 256x256](https://www.kaggle.com/cdeotte/melanoma-256x256), [here for 384x384](https://www.kaggle.com/cdeotte/melanoma-384x384), [here for 512x512](https://www.kaggle.com/cdeotte/melanoma-512x512), [here for 768x768](https://www.kaggle.com/cdeotte/melanoma-768x768), and [here for 1024x1024](https://www.kaggle.com/cdeotte/melanoma-1024x1024). These datasets (tf-records) should be put inside separate folders inside `input/`.
 
 ### Training and predicting
 
