@@ -22,4 +22,4 @@ Download datasets [here for 256x256](https://www.kaggle.com/cdeotte/melanoma-256
 
 ### Training and predicting
 
-Navigate to `src/` and specify configuration in config. Then, run from terminal: `python finetune.py` to train the model(s) and make predictions on test set.
+Navigate to `src/` and specify configurations in `config.py`. Then, run from terminal: `python finetune.py` to train the model(s) and make predictions on test set.
